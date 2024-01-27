@@ -5,7 +5,7 @@ Check out my art on https://www.instagram.com/art_meets_math/
 <br>   
 <br> 
 <br>
-<ul><strong>Directory:</strong></bold><br>
+Directory:<br>
    1) Attractors:   
       Lorenz Attractor: https://github.com/mathmeetsart/Lorenz-Attractor   
       Thomas Attractor: https://github.com/mathmeetsart/Thomas-Attractor   
