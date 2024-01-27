@@ -9,9 +9,9 @@ Directory:
    Lorenz Attractor: https://github.com/mathmeetsart/Lorenz-Attractor
    Thomas Attractor: https://github.com/mathmeetsart/Thomas-Attractor
 
-2) Fractal Set's:
+3) Fractal Set's:
    Julia's Set: https://github.com/mathmeetsart/Julia-Set
    
-3) Rest:
+4) Rest:
    Barnley's Fern: https://github.com/mathmeetsart/Barnley-Fern
 
