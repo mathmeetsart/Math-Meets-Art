@@ -6,13 +6,13 @@ Check out my art on https://www.instagram.com/art_meets_math/</p>
 <br> 
 <hr>
 Directory:<br>
-   1) Attractors:   
+   1. Attractors:   
       Lorenz Attractor: https://github.com/mathmeetsart/Lorenz-Attractor   
       Thomas Attractor: https://github.com/mathmeetsart/Thomas-Attractor   
    
-   2) Fractal Set's:<br>
+   2. Fractal Set's:<br>
       Julia's Set: https://github.com/mathmeetsart/Julia-Set   
    
-   3) Rest:<br>
+   3. Rest:<br>
      Barnley's Fern: https://github.com/mathmeetsart/Barnley-Fern   
 
