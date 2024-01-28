@@ -4,7 +4,7 @@ Check out my art on https://www.instagram.com/art_meets_math/
 <br>
 <br>   
 <br> 
-<br>
+<hr>
 Directory:<br>
    1) Attractors:   
       Lorenz Attractor: https://github.com/mathmeetsart/Lorenz-Attractor   
