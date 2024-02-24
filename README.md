@@ -11,8 +11,11 @@ Directory:<br>
       Thomas Attractor: https://github.com/mathmeetsart/Thomas-Attractor   
    
    2. Fractal Set's:<br>
-      Julia's Set: https://github.com/mathmeetsart/Julia-Set   
-   
-   3. Rest:<br>
+      Julia's Set: https://github.com/mathmeetsart/Julia-Set
+
+   3. Neural Network:<br>
+      My journey learning the basics: https://github.com/budermike/neural_network
+      
+   4. Rest:<br>
      Barnley's Fern: https://github.com/mathmeetsart/Barnley-Fern   
 
