@@ -23,7 +23,7 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
    - **Barnsley's Fern:** Discover the elegance of fractal plants.
    - **Dragon Curve:** Witness the geometric wonder of this recursive curve.
 
-*Note: For more detailed exploration and code, visit the respective repositories linked above.*
+*Note: For more detailed exploration and code, visit the respective repositories linked below or on my Instagram page.*
 
 ## Directory:
 
