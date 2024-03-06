@@ -56,9 +56,9 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
 
 Inspired and want to get involved? I welcome contributions, ideas, and discussions on how we can further explore the intersection of mathematics and art!
 
-**Connect:**
-
-* My Instagram Page: [https://www.instagram.com/art_meets_math/](https://www.instagram.com/art_meets_math/)  
+For questions, feedback, or collaboration opportunities, feel free to reach out to me:
+- Email: mathmeetsart01@gmail.com
+- Instagram: [art_meets_math](https://www.instagram.com/art_meets_math/)s_math/)  
 
 **About Me**
 
