@@ -45,3 +45,18 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
 ### Miscellaneous:
 - [Barnsley's Fern](https://github.com/mathmeetsart/Barnley-Fern)
 - [Dragon Curve](https://github.com/mathmeetsart/Dragon-Curve)
+
+Curve)
+
+
+## Let's Collaborate!
+
+Inspired and want to get involved? I welcome contributions, ideas, and discussions on how we can further explore the intersection of mathematics and art!
+
+**Connect:**
+
+* My Instagram Page: [https://www.instagram.com/art_meets_math/](https://www.instagram.com/art_meets_math/)  
+
+**About Me**
+
+I'm a Swiss dude fascinated by the hidden beauty within mathematics and the power of code to reveal it.  My passion led me to pursue a degree in math and neuroinformatics, combining my love for numbers with the mysteries of the brain. I'm excited to explore the intersection of math, art, and technology, and I ultimately aspire to make meaningful contributions in the field of science. 
