@@ -58,7 +58,7 @@ Inspired and want to get involved? I welcome contributions, ideas, and discussio
 
 For questions, feedback, or collaboration opportunities, feel free to reach out to me:
 - Email: mathmeetsart01@gmail.com
-- Instagram: [art_meets_math](https://www.instagram.com/art_meets_math/)s_math/)  
+- Instagram: [art_meets_math](https://www.instagram.com/art_meets_math/)
 
 **About Me**
 
