@@ -1,6 +1,6 @@
 # Math Meets Art
 
-![Lorenz Attractor](https://marcusvolz.com/portfolio/lorenz-attractor) 
+![Lorenz Attractor](https://upload.wikimedia.org/wikipedia/commons/0/0e/Lorenz_attractor.png)
 
 Welcome to Math Meets Art, where we explore the beautiful intersection of mathematics and art. This repository serves as the main hub for all the artistic endeavors showcased on [my Instagram page](https://www.instagram.com/art_meets_math/), aimed at making math accessible, intriguing, and visually captivating for everyone. Through this platform, I aim to demonstrate that math is not merely about numbers but a realm of boundless creativity and discovery. Each piece of art presented here also offers an opportunity to learn and appreciate the underlying mathematical concepts.
   
