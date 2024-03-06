@@ -2,7 +2,7 @@
 
 Welcome to Math Meets Art, where we explore the beautiful intersection of mathematics and art. This repository serves as the main hub for all the artistic endeavors showcased on [my Instagram page](https://www.instagram.com/art_meets_math/), aimed at making math accessible, intriguing, and visually captivating for everyone. Through this platform, I aim to demonstrate that math is not merely about numbers but a realm of boundless creativity and discovery. Each piece of art presented here also offers an opportunity to learn and appreciate the underlying mathematical concepts.
 
-***
+         
 ## Current Content:
 
 ### 1. Strange Attractors:
@@ -24,10 +24,10 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
    - **Barnsley's Fern:** Discover the elegance of fractal plants.
    - **Dragon Curve:** Witness the geometric wonder of this recursive curve.
 
-***
+         
 *Note: For more detailed exploration and code, visit the respective repositories linked below or on [my Instagram page](https://www.instagram.com/art_meets_math/).*
 
-***
+         
 ## Directory:
 
 ### Strange Attractors:
@@ -51,7 +51,7 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
 
 Curve)
 
-***
+         
 ## Let's Collaborate!
 
 Inspired and want to get involved? I welcome contributions, ideas, and discussions on how we can further explore the intersection of mathematics and art!
