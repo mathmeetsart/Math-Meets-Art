@@ -48,11 +48,9 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
 ### Miscellaneous:
 - [Barnsley's Fern](https://github.com/mathmeetsart/Barnley-Fern)
 - [Dragon Curve](https://github.com/mathmeetsart/Dragon-Curve)
-
-Curve)
-
          
-## Let's Collaborate!
+
+## Let's Collaborate! <br>
 
 Inspired and want to get involved? I welcome contributions, ideas, and discussions on how we can further explore the intersection of mathematics and art!
 
