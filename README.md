@@ -40,7 +40,7 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
 
 ### Fractal Sets:
 - [Julia Set](https://github.com/mathmeetsart/Julia-Set)
-- [Mandelbrot Set](https://github.com/mathmeetsart/Mandelbrot-Set)
+- [Mandelbrot Set](https://github.com/mathmeetsart/Mandelbrot_Set)
 
 ### Cellular Automata:
 - [Game of Life](https://github.com/mathmeetsart/Game-of-Life)
