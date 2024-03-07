@@ -1,7 +1,8 @@
 # Math Meets Art
-<br/><br/>
+<br/>
 
 ![Lorenz Attractor](https://upload.wikimedia.org/wikipedia/commons/0/0e/Lorenz_attractor.png)
+<br/>
 
 Welcome to Math Meets Art, where we explore the beautiful intersection of mathematics and art. This repository serves as the main hub for all the artistic endeavors showcased on [my Instagram page](https://www.instagram.com/art_meets_math/), aimed at making math accessible, intriguing, and visually captivating for everyone. Through this platform, I aim to demonstrate that math is not merely about numbers but a realm of boundless creativity and discovery. Each piece of art presented here also offers an opportunity to learn and appreciate the underlying mathematical concepts.
 <br/><br/>
@@ -42,20 +43,16 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
 - [Lorenz Attractor](https://github.com/mathmeetsart/Lorenz-Attractor)
 - [Thomas Attractor](https://github.com/mathmeetsart/Thomas-Attractor)
 - [Clifford Attractor](https://github.com/mathmeetsart/Clifford-Attractor)
-<br/>
 
 ### Fractal Sets:
 - [Julia Set](https://github.com/mathmeetsart/Julia-Set)
 - [Mandelbrot Set](https://github.com/mathmeetsart/Mandelbrot-Set)
-<br/>
 
 ### Cellular Automata:
 - [Game of Life](https://github.com/mathmeetsart/Game-of-Life)
-<br/>
 
 ### Neural Networks:
 - [My Journey Learning the Basics](https://github.com/budermike/neural_network)
-<br/>
 
 ### Miscellaneous:
 - [Barnsley's Fern](https://github.com/mathmeetsart/Barnley-Fern)
