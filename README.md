@@ -49,7 +49,7 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
 - [My Journey Learning the Basics](https://github.com/budermike/neural_network)
 
 ### Miscellaneous:
-- [Barnsley's Fern](https://github.com/mathmeetsart/Barnley-Fern)
+- [Barnsley's Fern](https://github.com/mathmeetsart/Barnsley-Fern)
 - [Dragon Curve](https://github.com/mathmeetsart/Dragon-Curve)
 <br/><br/>
   
