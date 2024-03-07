@@ -1,9 +1,10 @@
 # Math Meets Art
+<br/><br/>
 
 ![Lorenz Attractor](https://upload.wikimedia.org/wikipedia/commons/0/0e/Lorenz_attractor.png)
 
 Welcome to Math Meets Art, where we explore the beautiful intersection of mathematics and art. This repository serves as the main hub for all the artistic endeavors showcased on [my Instagram page](https://www.instagram.com/art_meets_math/), aimed at making math accessible, intriguing, and visually captivating for everyone. Through this platform, I aim to demonstrate that math is not merely about numbers but a realm of boundless creativity and discovery. Each piece of art presented here also offers an opportunity to learn and appreciate the underlying mathematical concepts.
-  
+<br/><br/>
   
 ## Current Content:
 
@@ -11,24 +12,29 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
    - **Lorenz Attractor:** A mesmerizing chaotic system.
    - **Thomas Attractor:** Delve into the world of strange attractors.
    - **Clifford Attractor:** Experience the allure of chaotic dynamics.
+<br/>
 
 ### 2. Fractal Sets:
    - **Julia Set:** Explore the intricate beauty of fractals.
    - **Mandelbrot Set:** Journey into the fascinating world of fractal geometry.
+<br/>
 
 ### 3. Cellular Automata:
    - **Game of Life:** Explore the emergent behavior of cellular automata.
+<br/>
 
 ### 4. Neural Networks:
    - **My Journey Learning the Basics:** Embark on the fascinating journey into artificial intelligence.
+<br/>
 
 ### 5. Miscellaneous:
    - **Barnsley's Fern:** Discover the elegance of fractal plants.
    - **Dragon Curve:** Witness the geometric wonder of this recursive curve.
+<br/>
 
          
 *Note: For more detailed exploration and code, visit the respective repositories linked below or on [my Instagram page](https://www.instagram.com/art_meets_math/).*
-  
+<br/><br/>
   
 ## Directory:
 
@@ -36,21 +42,25 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
 - [Lorenz Attractor](https://github.com/mathmeetsart/Lorenz-Attractor)
 - [Thomas Attractor](https://github.com/mathmeetsart/Thomas-Attractor)
 - [Clifford Attractor](https://github.com/mathmeetsart/Clifford-Attractor)
+<br/>
 
 ### Fractal Sets:
 - [Julia Set](https://github.com/mathmeetsart/Julia-Set)
 - [Mandelbrot Set](https://github.com/mathmeetsart/Mandelbrot-Set)
+<br/>
 
 ### Cellular Automata:
 - [Game of Life](https://github.com/mathmeetsart/Game-of-Life)
+<br/>
 
 ### Neural Networks:
 - [My Journey Learning the Basics](https://github.com/budermike/neural_network)
+<br/>
 
 ### Miscellaneous:
 - [Barnsley's Fern](https://github.com/mathmeetsart/Barnley-Fern)
 - [Dragon Curve](https://github.com/mathmeetsart/Dragon-Curve)
-  
+<br/><br/>
   
 ## Let's Collaborate! 
 
@@ -59,6 +69,7 @@ Inspired and want to get involved? I welcome contributions, ideas, and discussio
 For questions, feedback, or collaboration opportunities, feel free to reach out to me:
 - Email: mathmeetsart01@gmail.com
 - Instagram: [art_meets_math](https://www.instagram.com/art_meets_math/)
+<br/>
 
 **About Me**
 
