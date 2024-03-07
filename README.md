@@ -13,26 +13,20 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
    - **Lorenz Attractor:** A mesmerizing chaotic system.
    - **Thomas Attractor:** Delve into the world of strange attractors.
    - **Clifford Attractor:** Experience the allure of chaotic dynamics.
-<br/>
 
 ### 2. Fractal Sets:
    - **Julia Set:** Explore the intricate beauty of fractals.
    - **Mandelbrot Set:** Journey into the fascinating world of fractal geometry.
-<br/>
 
 ### 3. Cellular Automata:
    - **Game of Life:** Explore the emergent behavior of cellular automata.
-<br/>
 
 ### 4. Neural Networks:
    - **My Journey Learning the Basics:** Embark on the fascinating journey into artificial intelligence.
-<br/>
 
 ### 5. Miscellaneous:
    - **Barnsley's Fern:** Discover the elegance of fractal plants.
    - **Dragon Curve:** Witness the geometric wonder of this recursive curve.
-<br/>
-
          
 *Note: For more detailed exploration and code, visit the respective repositories linked below or on [my Instagram page](https://www.instagram.com/art_meets_math/).*
 <br/><br/>
