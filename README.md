@@ -1,5 +1,4 @@
 # Math Meets Art
-<br/>
 
 ![Lorenz Attractor](https://upload.wikimedia.org/wikipedia/commons/0/0e/Lorenz_attractor.png)
 <br/>
@@ -27,7 +26,8 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
 ### 5. Miscellaneous:
    - **Barnsley's Fern:** Discover the elegance of fractal plants.
    - **Dragon Curve:** Witness the geometric wonder of this recursive curve.
-         
+<br/>
+
 *Note: For more detailed exploration and code, visit the respective repositories linked below or on [my Instagram page](https://www.instagram.com/art_meets_math/).*
 <br/><br/>
   
