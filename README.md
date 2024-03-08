@@ -35,15 +35,15 @@ Welcome to Math Meets Art, where we explore the beautiful intersection of mathem
 
 ### Strange Attractors:
 - [Lorenz Attractor](https://github.com/mathmeetsart/Lorenz-Attractor)
-- [Thomas Attractor](https://github.com/mathmeetsart/Thomas-Attractor) (WORK IN PROGRESS)
-- [Clifford Attractor](https://github.com/mathmeetsart/Clifford-Attractor) (WORK IN PROGRESS)
+- [Thomas Attractor](https://github.com/mathmeetsart/Thomas-Attractor)
+- [Clifford Attractor](https://github.com/mathmeetsart/Clifford-Attractor)
 
 ### Fractal Sets:
 - [Julia Set](https://github.com/mathmeetsart/Julia-Set)
 - [Mandelbrot Set](https://github.com/mathmeetsart/Mandelbrot-Set)
 
 ### Cellular Automata:
-- [Game of Life](https://github.com/mathmeetsart/Game_of_Life) (WORK IN PROGRESS)
+- [Game of Life](https://github.com/mathmeetsart/Game_of_Life)
 
 ### Neural Networks:
 - [My Journey Learning the Basics](https://github.com/budermike/neural_network)
