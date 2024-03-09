@@ -1,7 +1,7 @@
 # Math Meets Art
 
 <img src="https://github.com/mathmeetsart/Math-Meets-Art/assets/157393083/cbac6579-8ecb-46e8-a2dc-7aaa581b29aa" width="600" height="600">
-<br/>
+<br/><br/>
 
 Welcome to Math Meets Art, where we explore the beautiful intersection of mathematics and art. This repository serves as the main hub for all the artistic endeavors showcased on [my Instagram page](https://www.instagram.com/art_meets_math/), aimed at making math accessible, intriguing, and visually captivating for everyone. Through this platform, I aim to demonstrate that math is not merely about numbers but a realm of boundless creativity and discovery. Each piece of art presented here also offers an opportunity to learn and appreciate the underlying mathematical concepts.
 <br/><br/>
