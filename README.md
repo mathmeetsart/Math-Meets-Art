@@ -64,4 +64,6 @@ For questions, feedback, or collaboration opportunities, feel free to reach out 
 
 **About Me**
 
+---
+
 I'm a Swiss dude fascinated by the hidden beauty within mathematics and the power of code to reveal it.  My passion led me to pursue a degree in math and neuroinformatics, combining my love for numbers with the mysteries of the brain. I'm excited to explore the intersection of math, art, and technology, and I ultimately aspire to make meaningful contributions in the field of science. 
