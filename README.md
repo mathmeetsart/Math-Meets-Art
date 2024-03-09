@@ -1,5 +1,7 @@
 # Math Meets Art
 
+<img src="https://github.com/mathmeetsart/Math-Meets-Art/assets/157393083/cbac6579-8ecb-46e8-a2dc-7aaa581b29aa" width="400" height="800">
+
 ![image](https://github.com/mathmeetsart/Math-Meets-Art/assets/157393083/cbac6579-8ecb-46e8-a2dc-7aaa581b29aa)
 <br/>
 
