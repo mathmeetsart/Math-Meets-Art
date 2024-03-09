@@ -1,6 +1,6 @@
 # Math Meets Art
 
-!![Clifford Attractor](https://github.com/mathmeetsart/Math-Meets-Art/assets/157393083/e79a7859-6b17-4209-b92d-2b9919248c0c)
+![image](https://github.com/mathmeetsart/Math-Meets-Art/assets/157393083/cbac6579-8ecb-46e8-a2dc-7aaa581b29aa)
 <br/>
 
 Welcome to Math Meets Art, where we explore the beautiful intersection of mathematics and art. This repository serves as the main hub for all the artistic endeavors showcased on [my Instagram page](https://www.instagram.com/art_meets_math/), aimed at making math accessible, intriguing, and visually captivating for everyone. Through this platform, I aim to demonstrate that math is not merely about numbers but a realm of boundless creativity and discovery. Each piece of art presented here also offers an opportunity to learn and appreciate the underlying mathematical concepts.
