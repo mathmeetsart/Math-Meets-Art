@@ -60,10 +60,9 @@ Inspired and want to get involved? I welcome contributions, ideas, and discussio
 For questions, feedback, or collaboration opportunities, feel free to reach out to me:
 - Email: mathmeetsart01@gmail.com
 - Instagram: [art_meets_math](https://www.instagram.com/art_meets_math/)
-<br/>
-
-**About Me**
 
 ---
+
+**About Me**
 
 I'm a Swiss dude fascinated by the hidden beauty within mathematics and the power of code to reveal it.  My passion led me to pursue a degree in math and neuroinformatics, combining my love for numbers with the mysteries of the brain. I'm excited to explore the intersection of math, art, and technology, and I ultimately aspire to make meaningful contributions in the field of science. 
